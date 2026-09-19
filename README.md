@@ -1,6 +1,6 @@
 ![](../../workflows/gds/badge.svg) ![](../../workflows/docs/badge.svg) ![](../../workflows/test/badge.svg) ![](../../workflows/fpga/badge.svg)
 
-# Tiny Tapeout Verilog Bootcamp 2026
+# Tiny Tapeout Verilog Bootcamp 2026 | Snake apple
 
 - [Read the documentation for project](docs/info.md)
 
